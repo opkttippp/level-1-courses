@@ -19,10 +19,10 @@
 <main>
     <section>
         <ul>
-            <li><a href="#">Урок 1</a></li>
+            <li><a href="table_1.php">Урок 1</a></li>
             <li><a href="#">Урок 2</a></li>
         </ul>
-        <p><a href="https://github.com/opkttippp/tol/commits?author=tttolll">Ссылка на commit - level_1_task_3</a></p>
+        <p><a href="https://github.com/opkttippp/tol/commits?author=tttolll">Ссылка на commit - level_1_task_4</a></p>
     </section>
 </main>
 
