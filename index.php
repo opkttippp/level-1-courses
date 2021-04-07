@@ -6,8 +6,29 @@
 </head>
 <body>
 
-<p>"Hello,<b>NIX Education"</b></p>
-<a href="https://github.com/opkttippp/tol/commits?author=tttolll">Публичный репозиторий</a>
+<header>
+    <div>
+        <p>"Hello,<b>NIX Education"</b></p>
+    </div>
+</header>
+
+<nav>
+
+</nav>
+
+<main>
+    <section>
+        <ul>
+            <li><a href="#">Урок 1</a></li>
+            <li><a href="#">Урок 2</a></li>
+        </ul>
+        <p><a href="https://github.com/opkttippp/tol/commits?author=tttolll">Ссылка на commit - level_1_task_3</a></p>
+    </section>
+</main>
+
+<footer>
+    <div></div>
+</footer>
 
 </body>
 </html>
