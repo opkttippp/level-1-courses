@@ -21,8 +21,9 @@
         <ul>
             <li><a href="table_1.php">Урок 1</a></li>
             <li><a href="table_2.php">Урок 2</a></li>
+            <li><a href="sol.php">Урок 3</a></li>
         </ul>
-        <p><a href="https://github.com/opkttippp/tol/commits?author=tttolll">Ссылка на commit - level_1_task_5</a></p>
+        <p><a href="https://github.com/opkttippp/tol/commits?author=tttolll">Ссылка на commit - level_1_task_final</a></p>
     </section>
 </main>
 
